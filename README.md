@@ -1,5 +1,5 @@
 ### Screenshot
-![](Stgcapture1.JPG)
+![](stgcapture1.png)
 ![](stgcapture2.png)
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [file:///C:/Users/hp%20prro/Desktop/stg/entrainnement.html](https://your-live-site-url.com)
